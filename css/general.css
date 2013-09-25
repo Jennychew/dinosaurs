@@ -1,0 +1,59 @@
+@-moz-viewport { wiidth: device-width; scale: 1; }
+@-ms-viewport { wiidth: device-width; scale: 1; }
+@-o-viewport { wiidth: device-width; scale: 1; }
+@-webkit-viewport { wiidth: device-width; scale: 1; }
+@viewport { wiidth: device-width; scale: 1; }
+
+* {
+-moz-box-sizing: border-box;
+-webkit-sizing: border-box;
+box-sizing: border-box;
+}
+
+html {
+	margin:0;
+	padding:0;
+	background-color: #fff;
+	font: normal 100%/1.4 Georgoa, serif;
+}
+
+body {
+	margin: 0;
+	padding:8px;
+}
+
+.nav {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align:center;
+}
+
+.nav li {
+	display: inline-block;
+}
+
+
+.intro {
+	font-style: italic;
+}
+
+.sub-intro {
+	font-size: 0.875rem;
+	font-style:italic;
+}
+
+.bucket {
+	padding: 1em;
+	background-color: #ccc;
+	border-radius: 8px;
+	margin-bottom: 8px;
+}
+
+.bucket h3 {
+	margin:0;
+}
+
+.bucket p {
+	margin: 0;	
+}
