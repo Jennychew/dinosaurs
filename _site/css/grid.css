@@ -1,5 +1,7 @@
 /* http://yui.github.io/gridbuilder/ */
 .grid {
+  margin: 0;
+  padding: 0;
   letter-spacing: -0.31em;
   *letter-spacing: normal;
   *word-spacing: -0.43em;

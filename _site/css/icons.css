@@ -27,19 +27,3 @@
 .icon-label {
 	border-bottom: 1px solid rgba(102, 102, 255, 0.5);
 }
-
-.i-venus {
-	background-image: url("../img/i-venus.svg");
-}
-
-.i-mars {
-	background-image: url("../img/i-mars.svg");
-}
-
-.i-jupiter {
-	background-image: url("../img/i-jupiter.svg");
-}
-
-.i-saturn {
-	background-image: url("../img/i-saturn.svg");
-}
